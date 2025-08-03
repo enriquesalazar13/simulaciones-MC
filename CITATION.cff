@@ -8,7 +8,7 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Enrique
+  - given-names: E.
     family-names: Salazar
 url: "https://github.com/enriquesalazar13/simulaciones-MC"
 date-released: 2025-08-02  
