@@ -10,4 +10,4 @@ type: software
 authors:
   - given-names: Enrique
     family-names: Salazar
-repository-code: 'https://github.com/enriquesalazar13/simulaciones-MC'
+url: 'https://github.com/enriquesalazar13/simulaciones-MC'
