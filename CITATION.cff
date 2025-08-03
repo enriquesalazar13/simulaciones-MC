@@ -10,4 +10,7 @@ type: software
 authors:
   - given-names: Enrique
     family-names: Salazar
-url: 'https://github.com/enriquesalazar13/simulaciones-MC'
+url: "https://github.com/enriquesalazar13/simulaciones-MC"
+date-released: 2024-06-15  # ¡Reemplaza con tu fecha real!
+version: "1.0.0"          # ¡Reemplaza con tu versión!
+repository-code: "https://github.com/enriquesalazar13/simulaciones-MC"
